@@ -1,0 +1,11 @@
+{
+  "id": "minecraft:fire_aspect",
+  "items": [
+    "$null",
+    "$universalenchants:axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "ensorcellation:frost_aspect"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:sword_or_axe"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:sharpness",
+    "minecraft:bane_of_arthropods",
+    "minecraft:smite",
+    "ensorcellation:instigating",
+    "ensorcellation:magic_edge",
+    "ensorcellation:damage_illager",
+    "illagerrevolutionmod:serrated_edge",
+    "ensorcellation:damage_villager"
+  ]
+}

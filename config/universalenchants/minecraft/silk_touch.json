@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "quark:pickarang",
+    "quark:flamerang",
+    "quark:echorang"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:fortune",
+    "minecraft:looting",
+    "minecraft:luck_of_the_sea",
+    "majruszsenchantments:smelter",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

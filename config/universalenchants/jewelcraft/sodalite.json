@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:wearable"
+  ],
+  "incompatible": [
+    "jewelcraft:rainbow",
+    "majruszsenchantments:incompatibility_curse",
+    "jewelcraft:totem",
+    "jewelcraft:alexandrite",
+    "jewelcraft:kyanite",
+    "jewelcraft:heliodor",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

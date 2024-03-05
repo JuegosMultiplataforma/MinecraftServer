@@ -1,0 +1,9 @@
+{
+  "id": "minecraft:flame",
+  "items": [
+    "$minecraft:bow",
+    "upgradednetherite:fire_upgraded_netherite_crossbow",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": []
+}

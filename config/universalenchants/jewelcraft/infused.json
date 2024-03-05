@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:wearable"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "jewelcraft:zombie",
+    "jewelcraft:critical",
+    "jewelcraft:bloody",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

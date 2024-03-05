@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:sword_or_axe",
+    "supplementaries:wrench",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident",
+    "$minecraft:universal_enchants_shield"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

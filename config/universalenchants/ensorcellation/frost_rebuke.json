@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest",
+    "modulargolems:roman_guard_chestplate",
+    "modulargolems:wind_spirit_chestplate",
+    "modulargolems:barbaric_vanguard_chestplate"
+  ],
+  "incompatible": [
+    "minecraft:thorns",
+    "majruszsenchantments:incompatibility_curse",
+    "ensorcellation:fire_rebuke",
+    "ensorcellation:displacement",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

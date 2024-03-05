@@ -1,0 +1,14 @@
+{
+  "id": "minecraft:sweeping",
+  "items": [
+    "$minecraft:weapon",
+    "infernalexp:blindsight_tongue_whip",
+    "infernalexp:kinetic_tongue_whip",
+    "cataclysm:the_incinerator",
+    "$universalenchants:axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "ensorcellation:magic_edge"
+  ]
+}

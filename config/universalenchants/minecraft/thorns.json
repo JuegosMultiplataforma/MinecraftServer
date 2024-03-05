@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest",
+    "modulargolems:roman_guard_chestplate",
+    "modulargolems:wind_spirit_chestplate",
+    "modulargolems:barbaric_vanguard_chestplate",
+    "$minecraft:universal_enchants_horse_armor",
+    "$minecraft:universal_enchants_shield"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "ensorcellation:frost_rebuke",
+    "ensorcellation:fire_rebuke",
+    "ensorcellation:displacement",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

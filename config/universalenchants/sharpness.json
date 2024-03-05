@@ -1,0 +1,23 @@
+{
+  "id": "minecraft:sharpness",
+  "items": [
+    "$minecraft:weapon",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "infernalexp:blindsight_tongue_whip",
+    "infernalexp:kinetic_tongue_whip",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:the_incinerator",
+    "cataclysm:infernal_forge",
+    "hunterillager:boomerang",
+    "$universalenchants:axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "ensorcellation:damage_illager",
+    "ensorcellation:damage_ender",
+    "ensorcellation:damage_villager",
+    "ensorcellation:magic_edge",
+    "ensorcellation:instigating"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "modulargolems:roman_guard_helmet",
+    "modulargolems:roman_guard_chestplate",
+    "modulargolems:roman_guard_shinguard",
+    "modulargolems:wind_spirit_helmet",
+    "modulargolems:wind_spirit_chestplate",
+    "modulargolems:wind_spirit_shinguard",
+    "modulargolems:barbaric_vanguard_helmet",
+    "modulargolems:barbaric_vanguard_chestplate",
+    "modulargolems:barbaric_vanguard_shinguard",
+    "$minecraft:universal_enchants_horse_armor"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:fire_protection",
+    "minecraft:blast_protection",
+    "illagerrevolutionmod:serrated_edge",
+    "minecraft:protection",
+    "ensorcellation:magic_protection"
+  ]
+}

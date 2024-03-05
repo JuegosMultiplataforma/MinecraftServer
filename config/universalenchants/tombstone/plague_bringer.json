@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:gauntlet_of_bulwark",
+    "cataclysm:the_incinerator",
+    "cataclysm:meat_shredder",
+    "cataclysm:void_forge",
+    "cataclysm:tidal_claws",
+    "cataclysm:infernal_forge",
+    "modulargolems:iron_golem_spear",
+    "modulargolems:diamond_golem_spear",
+    "modulargolems:netherite_golem_spear",
+    "modulargolems:iron_golem_axe",
+    "modulargolems:diamond_golem_axe",
+    "modulargolems:netherite_golem_axe"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "tombstone:magic_siphon",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

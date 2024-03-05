@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_legs",
+    "modulargolems:roman_guard_shinguard",
+    "modulargolems:wind_spirit_shinguard",
+    "modulargolems:barbaric_vanguard_shinguard"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

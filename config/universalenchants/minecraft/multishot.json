@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "supplementaries:slingshot",
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "supplementaries:stasis",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

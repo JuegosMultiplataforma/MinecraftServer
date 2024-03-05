@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:wearable"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "jewelcraft:healing_aura",
+    "jewelcraft:magnetic",
+    "jewelcraft:satisfication",
+    "illagerrevolutionmod:serrated_edge",
+    "jewelcraft:deflect"
+  ]
+}

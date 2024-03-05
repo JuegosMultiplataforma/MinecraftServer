@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "cataclysm:the_incinerator",
+    "modulargolems:iron_golem_spear",
+    "modulargolems:diamond_golem_spear",
+    "modulargolems:netherite_golem_spear",
+    "modulargolems:iron_golem_axe",
+    "modulargolems:diamond_golem_axe",
+    "modulargolems:netherite_golem_axe",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "ensorcellation:magic_edge",
+    "illagerrevolutionmod:soul_slash"
+  ]
+}

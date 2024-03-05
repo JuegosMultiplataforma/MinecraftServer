@@ -1,0 +1,11 @@
+{
+  "id": "minecraft:feather_falling",
+  "items": [
+    "$minecraft:armor_feet",
+    "alexsmobs:pigshoes",
+    "$universalenchants:horse_armor"
+  ],
+  "incompatible": [
+    "maenchants:soft_fall"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:gauntlet_of_bulwark",
+    "cataclysm:the_incinerator",
+    "cataclysm:meat_shredder",
+    "cataclysm:void_forge",
+    "cataclysm:tidal_claws",
+    "cataclysm:infernal_forge",
+    "modulargolems:iron_golem_spear",
+    "modulargolems:diamond_golem_spear",
+    "modulargolems:netherite_golem_spear",
+    "modulargolems:iron_golem_axe",
+    "modulargolems:diamond_golem_axe",
+    "modulargolems:netherite_golem_axe",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:smite",
+    "ensorcellation:instigating",
+    "ensorcellation:magic_edge",
+    "minecraft:impaling",
+    "ensorcellation:damage_illager",
+    "illagerrevolutionmod:serrated_edge",
+    "ensorcellation:damage_ender",
+    "majruszsenchantments:misanthropy",
+    "ensorcellation:damage_villager"
+  ]
+}

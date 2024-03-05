@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "maenchants:paralysis",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}

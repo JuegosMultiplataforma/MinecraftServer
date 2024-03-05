@@ -1,0 +1,6 @@
+
+[general]
+	#Time between Ice Chunk Summon
+	#Range: > 0
+	summon_interval = 40
+

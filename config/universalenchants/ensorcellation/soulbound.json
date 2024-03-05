@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:enchantable"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "tombstone:soulbound",
+    "minecraft:vanishing_curse",
+    "illagerrevolutionmod:serrated_edge"
+  ]
+}
