@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-03-04 23:52:44 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/light_blue_emergency_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -859,6 +865,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-03-04 22:52:54 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/diamond_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -923,14 +935,17 @@
     "criteria": {
       "minecraft:pillager": "2024-03-03 18:28:32 -0300",
       "minecraft:skeleton": "2024-03-03 19:16:44 -0300",
+      "minecraft:vindicator": "2024-03-04 23:47:16 -0300",
       "minecraft:spider": "2024-03-02 00:49:11 -0300",
       "minecraft:piglin_brute": "2024-03-03 19:22:41 -0300",
       "minecraft:creeper": "2024-03-03 18:20:14 -0300",
       "quark:forgotten": "2024-03-02 23:03:51 -0300",
       "minecraft:zombified_piglin": "2024-03-03 18:21:20 -0300",
       "minecraft:witch": "2024-03-04 00:32:55 -0300",
+      "minecraft:wither_skeleton": "2024-03-04 22:56:15 -0300",
       "minecraft:cave_spider": "2024-03-02 02:02:30 -0300",
       "minecraft:piglin": "2024-03-03 19:23:00 -0300",
+      "minecraft:stray": "2024-03-05 00:10:22 -0300",
       "minecraft:zombie": "2024-03-02 00:48:34 -0300",
       "minecraft:zombie_villager": "2024-03-03 00:43:37 -0300"
     },
@@ -1026,6 +1041,12 @@
       "cauldron": "2024-03-03 19:19:16 -0300"
     },
     "done": false
+  },
+  "inventorypets:creeper": {
+    "criteria": {
+      "crafting_table": "2024-03-04 23:14:12 -0300"
+    },
+    "done": true
   },
   "create:root": {
     "criteria": {
@@ -1270,6 +1291,12 @@
   "infinitybuttons:recipe/redstone/orange_emergency_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:pixie": {
+    "criteria": {
+      "crafting_table": "2024-03-05 01:04:54 -0300"
     },
     "done": true
   },
@@ -1549,6 +1576,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-05 00:36:23 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/small_crimsite_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -1614,6 +1647,12 @@
       "requirement_2": "2024-03-02 01:59:22 -0300",
       "requirement_3": "2024-03-02 01:11:17 -0300",
       "requirement_1": "2024-03-02 00:35:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-03-04 23:02:49 -0300"
     },
     "done": true
   },
@@ -2134,6 +2173,12 @@
   "infinitybuttons:recipe/redstone/warped_bookshelf_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "idas:hunters_cabin": {
+    "criteria": {
+      "in_hunters_cabin": "2024-03-04 23:49:45 -0300"
     },
     "done": true
   },

@@ -255,6 +255,12 @@
     },
     "done": true
   },
+  "inventorypets:anvil": {
+    "criteria": {
+      "crafting_table": "2024-03-05 01:03:55 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_copper_large_button_pouring_honey": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:45 -0300"
@@ -317,6 +323,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-03-05 00:11:55 -0300",
       "poisonous_potato": "2024-03-03 19:54:04 -0300",
       "bread": "2024-03-02 01:35:36 -0300",
       "golden_apple": "2024-03-02 01:41:32 -0300",
@@ -1168,6 +1175,12 @@
     },
     "done": true
   },
+  "colossalchests:root": {
+    "criteria": {
+      "criteria_0": "2024-03-04 23:37:48 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button_pouring_honey": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:45 -0300"
@@ -1471,9 +1484,16 @@
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2024-03-02 00:51:53 -0300",
+      "requirement_3": "2024-03-04 23:37:48 -0300",
       "requirement_1": "2024-03-01 23:52:05 -0300"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-03-04 23:30:27 -0300"
+    },
+    "done": true
   },
   "infinitybuttons:recipe/redstone/black_concrete_powder_button": {
     "criteria": {

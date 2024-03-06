@@ -188,6 +188,12 @@
     },
     "done": true
   },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2024-03-05 00:58:23 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button_pouring_honey": {
     "criteria": {
       "has_the_recipe": "2024-03-01 11:21:33 -0300"
@@ -432,6 +438,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-03-02 00:47:01 -0300",
+      "minecraft:blaze": "2024-03-04 23:44:57 -0300",
       "minecraft:skeleton": "2024-03-01 11:28:40 -0300",
       "minecraft:zoglin": "2024-03-03 19:18:58 -0300",
       "minecraft:vindicator": "2024-03-02 00:46:26 -0300",
@@ -1862,15 +1869,15 @@
     },
     "done": true
   },
-  "inventorypets:enderman": {
-    "criteria": {
-      "crafting_table": "2024-03-03 19:26:11 -0300"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "killed": "2024-03-03 15:49:58 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:enderman": {
+    "criteria": {
+      "crafting_table": "2024-03-03 19:26:11 -0300"
     },
     "done": true
   },
@@ -2414,6 +2421,12 @@
   "refinedstorage:construction": {
     "criteria": {
       "constructor_in_inventory": "2024-03-03 01:03:52 -0300"
+    },
+    "done": true
+  },
+  "idas:hunters_cabin": {
+    "criteria": {
+      "in_hunters_cabin": "2024-03-04 23:48:50 -0300"
     },
     "done": true
   },
