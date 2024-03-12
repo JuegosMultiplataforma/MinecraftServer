@@ -17,8 +17,8 @@
     "modulargolems:netherite_golem_axe"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "tombstone:magic_siphon",
+    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge"
   ]
 }

@@ -1,8 +1,0 @@
-{
-  "id": "minecraft:multishot",
-  "items": [
-    "$minecraft:crossbow",
-    "$minecraft:bow"
-  ],
-  "incompatible": []
-}

@@ -1,11 +1,11 @@
 
 [General]
 	#Range: 0.0 ~ 100.0
-	"explosion radius" = 100.0
+	"explosion radius" = 4.0
 
 ["Affects ALL Creepers"]
 	#Range: 0 ~ 500
-	"weight multiplier" = 500
+	"weight multiplier" = 1
 
 ["Spawn Chances"]
 

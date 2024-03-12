@@ -6,8 +6,8 @@
     "$minecraft:universal_enchants_horse_armor"
   ],
   "incompatible": [
+    "maenchants:soft_fall",
     "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge",
-    "maenchants:soft_fall"
+    "illagerrevolutionmod:serrated_edge"
   ]
 }

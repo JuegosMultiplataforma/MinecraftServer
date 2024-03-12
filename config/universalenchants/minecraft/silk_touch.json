@@ -7,11 +7,11 @@
     "quark:echorang"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "minecraft:fortune",
     "minecraft:looting",
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge",
     "minecraft:luck_of_the_sea",
-    "majruszsenchantments:smelter",
-    "illagerrevolutionmod:serrated_edge"
+    "majruszsenchantments:smelter"
   ]
 }

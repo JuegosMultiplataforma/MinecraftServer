@@ -6,9 +6,9 @@
     "cataclysm:coral_bardiche"
   ],
   "incompatible": [
+    "minecraft:loyalty",
     "majruszsenchantments:incompatibility_curse",
     "minecraft:channeling",
-    "minecraft:loyalty",
     "illagerrevolutionmod:serrated_edge"
   ]
 }

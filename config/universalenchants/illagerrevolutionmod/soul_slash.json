@@ -18,7 +18,7 @@
   ],
   "incompatible": [
     "majruszsenchantments:incompatibility_curse",
-    "minecraft:sweeping",
-    "illagerrevolutionmod:serrated_edge"
+    "illagerrevolutionmod:serrated_edge",
+    "minecraft:sweeping"
   ]
 }

@@ -14,11 +14,11 @@
     "$minecraft:universal_enchants_horse_armor"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
+    "minecraft:protection",
+    "ensorcellation:magic_protection",
     "minecraft:fire_protection",
     "minecraft:blast_protection",
-    "illagerrevolutionmod:serrated_edge",
-    "minecraft:protection",
-    "ensorcellation:magic_protection"
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge"
   ]
 }

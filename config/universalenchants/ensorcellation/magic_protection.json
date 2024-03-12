@@ -13,11 +13,11 @@
     "modulargolems:barbaric_vanguard_shinguard"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
+    "minecraft:protection",
     "minecraft:fire_protection",
-    "minecraft:projectile_protection",
     "minecraft:blast_protection",
+    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge",
-    "minecraft:protection"
+    "minecraft:projectile_protection"
   ]
 }

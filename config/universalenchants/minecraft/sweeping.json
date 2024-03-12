@@ -13,8 +13,8 @@
     "$minecraft:trident"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "ensorcellation:magic_edge",
-    "illagerrevolutionmod:soul_slash"
+    "illagerrevolutionmod:soul_slash",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

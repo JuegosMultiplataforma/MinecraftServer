@@ -4,8 +4,8 @@
     "$minecraft:crossbow"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "minecraft:multishot",
+    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge"
   ]
 }

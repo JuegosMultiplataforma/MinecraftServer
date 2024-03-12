@@ -23,29 +23,11 @@
     },
     "done": true
   },
-  "repurposed_structures:pyramids": {
+  "repurposed_structures:igloos": {
     "criteria": {
-      "in_pyramid_dark_forest": "2024-03-04 00:36:44 -0300"
+      "in_igloo_grassy": "2024-03-10 23:32:09 -0300"
     },
     "done": false
-  },
-  "infinitybuttons:recipe/redstone/chiseled_polished_jasper_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cut_scorchia_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/yellow_concrete_powder_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
   },
   "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
@@ -65,12 +47,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/prismarine_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "biomemakeover:biomemakeover/root": {
     "criteria": {
       "enter_mushroom_fields": "2024-03-02 00:33:47 -0300",
@@ -80,45 +56,15 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/small_asurine_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/stone_button_stonecutter": {
     "criteria": {
       "has_stone": "2024-03-02 01:33:16 -0300"
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/diorite_button": {
+  "modulargolems:golems/humanoid": {
     "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/blue_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button_waxing": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/waxed_copper_large_button_waxing": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/chiseled_polished_andesite_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+      "0": "2024-03-10 20:50:10 -0300"
     },
     "done": true
   },
@@ -128,39 +74,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/small_granite_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2024-03-02 00:44:45 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/tuff_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/big_console_lever": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cracked_deepslate_tile_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -176,18 +92,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/spruce_plank_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/diamond_disk": {
-    "criteria": {
-      "requirement_2": "2024-03-02 01:59:22 -0300"
-    },
-    "done": false
-  },
   "infinitybuttons:recipe/redstone/soul_lantern_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -200,22 +104,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/prismarine_button_stonecutter": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/red_nether_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cobweb": {
-    "criteria": {
-      "has_recipe": "2024-03-01 23:34:44 -0300",
-      "has_cobweb": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -237,37 +128,13 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/gray_concrete_powder_button": {
+  "morevillagers:first_trade": {
     "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2024-03-02 23:08:21 -0300"
+      "villagertrade": "2024-03-05 23:32:52 -0300"
     },
     "done": true
   },
   "infinitybuttons:recipe/redstone/magenta_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "antique_pickaxe:justeunesimplepioche": {
-    "criteria": {
-      "justeunesimplepioche": "2024-03-02 00:37:23 -0300"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-03-03 23:37:27 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/acacia_bookshelf_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -279,21 +146,15 @@
     },
     "done": true
   },
-  "corail_recycler:tutorial/first_recycle": {
-    "criteria": {
-      "coded_trigger": "2024-03-02 01:46:52 -0300"
-    },
-    "done": true
-  },
-  "inventorypets:chicken": {
-    "criteria": {
-      "crafting_table": "2024-03-03 19:24:51 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/cut_tuff_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "phantom": "2024-03-09 21:00:16 -0300"
     },
     "done": true
   },
@@ -321,15 +182,1209 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2024-03-03 23:45:42 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/andesite_button_stonecutter": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/purple_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button_waxing": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/redstone_torch_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/blue_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2024-03-10 17:03:38 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/red_sand_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/fancy_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/stone_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/yellow_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/brown_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_calcite_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2024-03-05 23:05:49 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/blue_nether_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_dripstone_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/calcite_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/chiseled_polished_diorite_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2024-03-04 00:49:01 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/andesite_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "quark:make_stoneling": {
+    "criteria": {
+      "make_stoneling": "2024-03-02 23:40:00 -0300"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:root": {
+    "criteria": {
+      "show": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/deepslate_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/orange_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/crimson_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-03-03 19:42:48 -0300"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/netherite_disk": {
+    "criteria": {
+      "requirement_2": "2024-03-02 01:59:22 -0300"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/black_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/steel_disk": {
+    "criteria": {
+      "requirement_2": "2024-03-02 01:59:22 -0300",
+      "requirement_1": "2024-03-03 19:11:11 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/andesite_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/light_blue_concrete_powder_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-02 00:52:53 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/exposed_copper_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sticky_weathered_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/chiseled_polished_limestone_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-03-02 00:48:34 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_taiga": "2024-03-10 00:26:10 -0300"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/cut_ochrum_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/rose_quartz_tile_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/illunite_shard": {
+    "criteria": {
+      "get_stew": "2024-03-02 02:00:08 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-03-04 22:52:54 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diamond_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/tuff_button_stonecutter": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:golems/apply": {
+    "criteria": {
+      "0": "2024-03-09 20:54:08 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:golems/start": {
+    "criteria": {
+      "0": "2024-03-09 20:50:26 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/red_sand_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:jukebox": {
+    "criteria": {
+      "crafting_table": "2024-03-03 20:07:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-03-03 18:28:32 -0300",
+      "minecraft:skeleton": "2024-03-03 19:16:44 -0300",
+      "minecraft:ravager": "2024-03-06 00:01:57 -0300",
+      "minecraft:hoglin": "2024-03-11 00:08:28 -0300",
+      "minecraft:vindicator": "2024-03-04 23:47:16 -0300",
+      "minecraft:magma_cube": "2024-03-11 00:12:36 -0300",
+      "minecraft:spider": "2024-03-02 00:49:11 -0300",
+      "minecraft:piglin_brute": "2024-03-03 19:22:41 -0300",
+      "minecraft:creeper": "2024-03-03 18:20:14 -0300",
+      "minecraft:slime": "2024-03-06 00:14:32 -0300",
+      "quark:forgotten": "2024-03-02 23:03:51 -0300",
+      "minecraft:phantom": "2024-03-09 21:00:16 -0300",
+      "minecraft:zombified_piglin": "2024-03-03 18:21:20 -0300",
+      "minecraft:witch": "2024-03-04 00:32:55 -0300",
+      "minecraft:wither_skeleton": "2024-03-04 22:56:15 -0300",
+      "minecraft:cave_spider": "2024-03-02 02:02:30 -0300",
+      "quark:wraith": "2024-03-06 23:50:39 -0300",
+      "minecraft:piglin": "2024-03-03 19:23:00 -0300",
+      "minecraft:stray": "2024-03-05 00:10:22 -0300",
+      "minecraft:enderman": "2024-03-06 00:19:17 -0300",
+      "minecraft:silverfish": "2024-03-07 00:25:57 -0300",
+      "minecraft:zombie": "2024-03-02 00:48:34 -0300",
+      "quark:foxhound": "2024-03-11 00:18:58 -0300",
+      "minecraft:drowned": "2024-03-09 01:05:10 -0300",
+      "minecraft:zombie_villager": "2024-03-03 00:43:37 -0300"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/blossom_bookshelf_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/torch_lever": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/pink_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-03-03 19:18:54 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/brown_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/yellow_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-03-03 18:28:37 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/red_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/exposed_copper_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:creeper": {
+    "criteria": {
+      "crafting_table": "2024-03-04 23:14:12 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/dark_oak_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/prismarine_brick_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cut_granite_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2024-03-05 23:06:34 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sticky_copper_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-03-03 18:29:36 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sticky_copper_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/jungle_bookshelf_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/polished_jasper_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/dark_prismarine_button_stonecutter": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-03-03 19:01:07 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-03-05 23:06:34 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/jungle_plank_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sticky_exposed_copper_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cut_veridium_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diamond_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_giant_taiga": "2024-03-05 23:56:59 -0300"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2024-03-07 00:43:37 -0300"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-03-09 20:53:14 -0300"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2024-03-05 23:32:52 -0300"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-03-10 23:59:12 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/dripstone_button_stonecutter": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button_pouring_honey": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2024-03-05 23:14:06 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/bookshelf_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cut_deepslate_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lime_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_scorchia_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/dark_prismarine_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2024-03-02 00:45:02 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/lime_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-03-02 23:03:16 -0300"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/diamond_shard": {
+    "criteria": {
+      "requirement_1": "2024-03-02 00:44:37 -0300"
+    },
+    "done": false
+  },
+  "modulargolems:golems/dog": {
+    "criteria": {
+      "0": "2024-03-09 20:54:18 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/purple_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/light_gray_concrete_powder_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:5": {
+    "criteria": {
+      "example": "2024-03-03 20:07:54 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:1": {
+    "criteria": {
+      "example": "2024-03-03 00:31:29 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/birch_bookshelf_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-03-02 23:09:11 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/red_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_tuff_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gravel_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/white_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-05 00:36:23 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_crimsite_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_rose_quartz_tile_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gold_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/magenta_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/light_gray_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/polished_shale_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:golems/fully_equipped": {
+    "criteria": {
+      "0": "2024-03-10 20:58:02 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/black_concrete_powder_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/moth_scales": {
+    "criteria": {
+      "get_stew": "2024-03-04 00:32:05 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/spruce_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "idas:ruins_of_the_deep": {
+    "criteria": {
+      "in_ruins_of_the_deep": "2024-03-09 00:59:13 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/mangrove_plank_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-03-01 23:34:44 -0300",
+      "has_cracked_stone_bricks": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-03-02 00:48:34 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-03-03 18:58:24 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/yellow_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-03-02 02:00:03 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/crimson_plank_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/spruce_bookshelf_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/chiseled_nether_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/polished_tuff_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-03-02 23:03:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-03-07 00:38:41 -0300",
+      "minecraft:old_growth_pine_taiga": "2024-03-02 00:33:47 -0300",
+      "minecraft:taiga": "2024-03-05 23:24:20 -0300",
+      "minecraft:sunflower_plains": "2024-03-05 23:05:21 -0300",
+      "minecraft:birch_forest": "2024-03-03 18:54:52 -0300",
+      "minecraft:beach": "2024-03-03 18:55:09 -0300",
+      "minecraft:dark_forest": "2024-03-03 18:54:56 -0300",
+      "minecraft:river": "2024-03-03 18:54:40 -0300",
+      "minecraft:grove": "2024-03-05 23:26:53 -0300",
+      "minecraft:jagged_peaks": "2024-03-07 00:38:49 -0300",
+      "minecraft:forest": "2024-03-03 18:18:49 -0300",
+      "minecraft:lush_caves": "2024-03-02 00:34:35 -0300",
+      "minecraft:ocean": "2024-03-03 18:55:17 -0300",
+      "minecraft:old_growth_spruce_taiga": "2024-03-06 00:16:38 -0300",
+      "minecraft:frozen_peaks": "2024-03-07 00:39:07 -0300",
+      "minecraft:old_growth_birch_forest": "2024-03-03 18:53:53 -0300",
+      "minecraft:meadow": "2024-03-07 00:37:53 -0300",
+      "minecraft:savanna": "2024-03-07 00:56:10 -0300",
+      "minecraft:plains": "2024-03-05 23:04:37 -0300"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/weathered_copper_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/chiseled_polished_dripstone_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/blue_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/doorbell": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_copper_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/crime_in_town": {
+    "criteria": {
+      "coded_trigger": "2024-03-05 23:09:26 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/green_concrete_powder_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-03-02 01:51:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-03-11 00:05:58 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/mossy_stone_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/magenta_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/azalea_bookshelf_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_diorite_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cut_dripstone_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gray_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/prismarine_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_ochrum_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/quartz_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cracked_deepslate_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:golems/root": {
+    "criteria": {
+      "0": "2024-03-02 01:59:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-03-11 00:01:25 -0300",
+      "minecraft:nether_wastes": "2024-03-10 23:59:14 -0300",
+      "minecraft:soul_sand_valley": "2024-03-11 00:05:51 -0300",
+      "minecraft:basalt_deltas": "2024-03-11 00:10:12 -0300"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/nether_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gray_safe_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "modulargolems:golems/craft": {
+    "criteria": {
+      "0": "2024-03-09 20:54:18 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/orange_concrete_powder_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/warped_bookshelf_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button_waxing": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/letter_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-03-03 18:28:32 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_dark_forest": "2024-03-04 00:36:44 -0300"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/chiseled_polished_jasper_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cut_scorchia_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/yellow_concrete_powder_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/prismarine_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_asurine_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/diorite_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/blue_emergency_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_weathered_copper_large_button_waxing": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-03-10 23:59:12 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_copper_large_button_waxing": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/chiseled_polished_andesite_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/small_granite_brick_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/tuff_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/big_console_lever": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/cracked_deepslate_tile_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/spruce_plank_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/diamond_disk": {
+    "criteria": {
+      "requirement_2": "2024-03-02 01:59:22 -0300"
+    },
+    "done": false
+  },
+  "infinitybuttons:recipe/redstone/prismarine_button_stonecutter": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-03-01 23:34:44 -0300",
+      "has_cobweb": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/gray_concrete_powder_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-03-02 23:08:21 -0300"
+    },
+    "done": true
+  },
+  "repurposed_structures:city_overworld": {
+    "criteria": {
+      "city_overworld": "2024-03-06 00:10:40 -0300"
+    },
+    "done": true
+  },
+  "antique_pickaxe:justeunesimplepioche": {
+    "criteria": {
+      "justeunesimplepioche": "2024-03-02 00:37:23 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-03-03 23:37:27 -0300"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipe/redstone/acacia_bookshelf_secret_button": {
+    "criteria": {
+      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/first_recycle": {
+    "criteria": {
+      "coded_trigger": "2024-03-02 01:46:52 -0300"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2024-03-09 00:42:42 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:chicken": {
+    "criteria": {
+      "crafting_table": "2024-03-03 19:24:51 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-03-03 23:45:42 -0300"
     },
     "done": true
   },
@@ -345,6 +1400,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2024-03-08 23:57:02 -0300"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-03-02 02:02:44 -0300"
@@ -352,18 +1413,6 @@
     "done": true
   },
   "infinitybuttons:recipe/redstone/lamp_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/purple_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button_waxing": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -390,18 +1439,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/redstone_torch_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/diorite_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "inventorypets:meta": {
     "criteria": {
       "crafting_table": "2024-03-03 00:49:14 -0300"
@@ -414,30 +1451,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/blue_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button_pouring_honey": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/red_sand_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/fancy_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/acacia_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -445,12 +1458,6 @@
     "done": true
   },
   "infinitybuttons:recipe/redstone/redstone_torch_lever": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/stone_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -475,12 +1482,6 @@
     "done": true
   },
   "infinitybuttons:recipe/redstone/lantern_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/yellow_concrete_powder_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -522,19 +1523,7 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/brown_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/chiseled_polished_shale_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/small_calcite_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -558,39 +1547,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/blue_nether_brick_secret_button": {
+  "quark:instamine_deepslate": {
     "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "idas:idas_root": {
-    "criteria": {
-      "always": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/small_dripstone_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/calcite_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/chiseled_polished_diorite_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "idas:wizardtower": {
-    "criteria": {
-      "in_wizardtower": "2024-03-04 00:49:01 -0300"
+      "instamine_deepslate": "2024-03-09 20:35:33 -0300"
     },
     "done": true
   },
@@ -600,33 +1559,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/andesite_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "quark:make_stoneling": {
-    "criteria": {
-      "make_stoneling": "2024-03-02 23:40:00 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/gold_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "takesapillage:root": {
-    "criteria": {
-      "always": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:root": {
-    "criteria": {
-      "show": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -636,62 +1571,7 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/deepslate_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/orange_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/crimson_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2024-03-03 19:42:48 -0300"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/netherite_disk": {
-    "criteria": {
-      "requirement_2": "2024-03-02 01:59:22 -0300"
-    },
-    "done": false
-  },
   "infinitybuttons:recipe/redstone/cut_crimsite_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/black_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "corail_recycler:recipes/steel_disk": {
-    "criteria": {
-      "requirement_2": "2024-03-02 01:59:22 -0300",
-      "requirement_1": "2024-03-03 19:11:11 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/andesite_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/light_blue_concrete_powder_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -721,9 +1601,9 @@
     },
     "done": true
   },
-  "morevillagers:root": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "always": "2024-03-01 23:34:44 -0300"
+      "killed": "2024-03-09 20:59:06 -0300"
     },
     "done": true
   },
@@ -740,18 +1620,6 @@
     "done": true
   },
   "infinitybuttons:recipe/redstone/light_blue_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-03-02 00:52:53 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/exposed_copper_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -776,12 +1644,6 @@
     "done": true
   },
   "infinitybuttons:recipe/redstone/pink_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/sticky_weathered_copper_large_button_pouring_honey": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -829,51 +1691,15 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/chiseled_polished_limestone_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/waxed_oxidized_copper_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "dungeons_arise:find_keep_kayra": {
     "criteria": {
-      "killed_something": "2024-03-02 00:48:34 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cut_ochrum_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/rose_quartz_tile_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/illunite_shard": {
-    "criteria": {
-      "get_stew": "2024-03-02 02:00:08 -0300"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_infested_temple": {
-    "criteria": {
-      "location0": "2024-03-04 22:52:54 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/diamond_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+      "location0": "2024-03-06 00:13:32 -0300"
     },
     "done": true
   },
@@ -883,9 +1709,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/tuff_button_stonecutter": {
+  "inventorypets:magmacube": {
     "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+      "crafting_table": "2024-03-10 21:02:55 -0300"
     },
     "done": true
   },
@@ -901,27 +1727,15 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2024-03-05 23:58:01 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/deepslate_button_stonecutter": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/sticky_exposed_copper_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/red_sand_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "inventorypets:jukebox": {
-    "criteria": {
-      "crafting_table": "2024-03-03 20:07:54 -0300"
     },
     "done": true
   },
@@ -931,53 +1745,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "minecraft:pillager": "2024-03-03 18:28:32 -0300",
-      "minecraft:skeleton": "2024-03-03 19:16:44 -0300",
-      "minecraft:vindicator": "2024-03-04 23:47:16 -0300",
-      "minecraft:spider": "2024-03-02 00:49:11 -0300",
-      "minecraft:piglin_brute": "2024-03-03 19:22:41 -0300",
-      "minecraft:creeper": "2024-03-03 18:20:14 -0300",
-      "quark:forgotten": "2024-03-02 23:03:51 -0300",
-      "minecraft:zombified_piglin": "2024-03-03 18:21:20 -0300",
-      "minecraft:witch": "2024-03-04 00:32:55 -0300",
-      "minecraft:wither_skeleton": "2024-03-04 22:56:15 -0300",
-      "minecraft:cave_spider": "2024-03-02 02:02:30 -0300",
-      "minecraft:piglin": "2024-03-03 19:23:00 -0300",
-      "minecraft:stray": "2024-03-05 00:10:22 -0300",
-      "minecraft:zombie": "2024-03-02 00:48:34 -0300",
-      "minecraft:zombie_villager": "2024-03-03 00:43:37 -0300"
-    },
-    "done": false
-  },
-  "infinitybuttons:recipe/redstone/blossom_bookshelf_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/torch_lever": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/pink_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_village": {
-    "criteria": {
-      "location0": "2024-03-03 19:18:54 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/brown_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+      "entered_nether": "2024-03-10 23:59:12 -0300"
     },
     "done": true
   },
@@ -987,9 +1757,28 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/yellow_safe_emergency_button": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+      "traded": "2024-03-05 23:32:52 -0300"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2024-03-09 00:42:25 -0300"
+    },
+    "done": true
+  },
+  "bygonenether:explore_structures": {
+    "criteria": {
+      "in_bastion_remnant": "2024-03-11 00:05:58 -0300",
+      "in_catacomb": "2024-03-11 00:21:54 -0300"
+    },
+    "done": false
+  },
+  "modulargolems:golems/oops": {
+    "criteria": {
+      "0": "2024-03-10 23:23:35 -0300"
     },
     "done": true
   },
@@ -1011,24 +1800,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-03-03 18:28:37 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/red_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/exposed_copper_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2024-03-03 18:57:24 -0300",
@@ -1042,9 +1813,9 @@
     },
     "done": false
   },
-  "inventorypets:creeper": {
+  "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
-      "crafting_table": "2024-03-04 23:14:12 -0300"
+      "killed": "2024-03-10 17:41:58 -0300"
     },
     "done": true
   },
@@ -1061,12 +1832,6 @@
     "done": true
   },
   "infinitybuttons:recipe/redstone/sand_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/dark_oak_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -1090,12 +1855,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/prismarine_brick_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-03-02 00:44:37 -0300"
@@ -1111,12 +1870,6 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-03-02 01:59:59 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cut_granite_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -1138,21 +1891,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/sticky_copper_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/light_gray_concrete_powder_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2024-03-03 18:29:36 -0300"
     },
     "done": true
   },
@@ -1163,12 +1904,6 @@
     "done": true
   },
   "infinitybuttons:recipe/redstone/torch_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/sticky_copper_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -1192,49 +1927,7 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/jungle_bookshelf_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/polished_jasper_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/dark_prismarine_button_stonecutter": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-03-03 19:01:07 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/cyan_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/jungle_plank_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/sticky_exposed_copper_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cut_veridium_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -1246,9 +1939,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/diamond_large_button": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+      "killed": "2024-03-11 00:13:59 -0300"
     },
     "done": true
   },
@@ -1279,12 +1972,6 @@
   "quark:get_diamond_heart": {
     "criteria": {
       "get_diamond_heart": "2024-03-02 23:39:53 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/dripstone_button_stonecutter": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -1324,12 +2011,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button_pouring_honey": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/oxidized_copper_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -1342,57 +2023,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/bookshelf_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cut_deepslate_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/lime_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/small_scorchia_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/stone_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/dark_prismarine_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "shieldexp:get_diamond_shield": {
-    "criteria": {
-      "diamond_shield": "2024-03-02 00:45:02 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/lime_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-03-02 23:03:16 -0300"
     },
     "done": true
   },
@@ -1401,18 +2034,6 @@
       "red": "2024-03-04 00:53:10 -0300"
     },
     "done": false
-  },
-  "corail_recycler:recipes/diamond_shard": {
-    "criteria": {
-      "requirement_1": "2024-03-02 00:44:37 -0300"
-    },
-    "done": false
-  },
-  "infinitybuttons:recipe/redstone/purple_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
   },
   "infinitybuttons:recipe/redstone/waxed_weathered_copper_button": {
     "criteria": {
@@ -1444,12 +2065,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/light_gray_concrete_powder_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/pink_emergency_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -1468,21 +2083,9 @@
     },
     "done": true
   },
-  "inventorypets:5": {
-    "criteria": {
-      "example": "2024-03-03 20:07:54 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/emerald_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "inventorypets:1": {
-    "criteria": {
-      "example": "2024-03-03 00:31:29 -0300"
     },
     "done": true
   },
@@ -1510,37 +2113,19 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/birch_bookshelf_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/red_concrete_powder_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "idas:enchantingtower": {
     "criteria": {
-      "coded_trigger": "2024-03-02 23:09:11 -0300"
+      "in_enchantingtower": "2024-03-05 23:22:15 -0300"
     },
     "done": true
   },
   "infinitybuttons:recipe/redstone/polished_blackstone_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/red_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/small_tuff_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -1564,36 +2149,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/gravel_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/white_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-03-05 00:36:23 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/small_crimsite_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/small_rose_quartz_tile_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/granite_button_stonecutter": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -1606,33 +2161,15 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/gold_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-03-02 01:24:03 -0300"
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/magenta_emergency_button": {
+  "inventorypets:cobblestone": {
     "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/light_gray_safe_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/polished_shale_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+      "crafting_table": "2024-03-10 00:16:59 -0300"
     },
     "done": true
   },
@@ -1656,33 +2193,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/black_concrete_powder_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/moth_scales": {
-    "criteria": {
-      "get_stew": "2024-03-04 00:32:05 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/spruce_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2024-03-02 17:59:33 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/sticky_oxidized_copper_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -1698,19 +2211,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/mangrove_plank_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "explorerscompass:explorers_compass_cracked_stone_bricks": {
-    "criteria": {
-      "has_recipe": "2024-03-01 23:34:44 -0300",
-      "has_cracked_stone_bricks": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/cut_diorite_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -1720,12 +2220,6 @@
   "infinitybuttons:recipe/redstone/chiseled_polished_calcite_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2024-03-02 00:48:34 -0300"
     },
     "done": true
   },
@@ -1741,81 +2235,13 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-03-03 18:58:24 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/deepslate_tile_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/yellow_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/sand_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2024-03-02 02:00:03 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/crimson_plank_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/spruce_bookshelf_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/chiseled_nether_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/polished_tuff_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2024-03-02 23:03:53 -0300"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:old_growth_pine_taiga": "2024-03-02 00:33:47 -0300",
-      "minecraft:birch_forest": "2024-03-03 18:54:52 -0300",
-      "minecraft:beach": "2024-03-03 18:55:09 -0300",
-      "minecraft:dark_forest": "2024-03-03 18:54:56 -0300",
-      "minecraft:river": "2024-03-03 18:54:40 -0300",
-      "minecraft:forest": "2024-03-03 18:18:49 -0300",
-      "minecraft:lush_caves": "2024-03-02 00:34:35 -0300",
-      "minecraft:ocean": "2024-03-03 18:55:17 -0300",
-      "minecraft:old_growth_birch_forest": "2024-03-03 18:53:53 -0300"
-    },
-    "done": false
-  },
-  "infinitybuttons:recipe/redstone/weathered_copper_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -1833,25 +2259,13 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_giant_tree_taiga": "2024-03-05 23:57:45 -0300"
+    },
+    "done": false
+  },
   "infinitybuttons:recipe/redstone/chiseled_polished_granite_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/chiseled_polished_dripstone_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/blue_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/doorbell": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -1860,12 +2274,6 @@
   "corail_recycler:tutorial/root": {
     "criteria": {
       "auto": "2024-03-02 00:33:47 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/waxed_copper_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -1887,12 +2295,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/green_concrete_powder_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/red_concrete_powder_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -1911,21 +2313,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2024-03-02 01:51:42 -0300"
-    },
-    "done": true
-  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_compass": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/mossy_stone_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -1935,25 +2325,7 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/magenta_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/light_gray_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/azalea_bookshelf_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/small_diorite_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -1966,12 +2338,6 @@
     "done": true
   },
   "infinitybuttons:recipe/redstone/cracked_stone_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/cut_dripstone_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -2007,21 +2373,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/gray_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/cut_scoria_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -2043,12 +2397,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/prismarine_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/soul_torch_lever": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -2061,21 +2409,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/small_ochrum_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "endrem:main/root": {
     "criteria": {
       "lost_eye": "2024-03-02 23:58:33 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/quartz_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -2104,31 +2440,13 @@
     },
     "done": false
   },
-  "infinitybuttons:recipe/redstone/cracked_deepslate_brick_secret_button": {
+  "bygonenether:catacomb": {
     "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "modulargolems:golems/root": {
-    "criteria": {
-      "0": "2024-03-02 01:59:16 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/nether_brick_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
+      "in_catacomb": "2024-03-11 00:21:54 -0300"
     },
     "done": true
   },
   "infinitybuttons:recipe/redstone/green_emergency_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/gray_safe_emergency_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
@@ -2164,18 +2482,6 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/orange_concrete_powder_large_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/warped_bookshelf_secret_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "idas:hunters_cabin": {
     "criteria": {
       "in_hunters_cabin": "2024-03-04 23:49:45 -0300"
@@ -2194,21 +2500,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipe/redstone/waxed_exposed_copper_large_button_waxing": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
   "gobber2:root": {
     "criteria": {
       "gobber2_globette": "2024-03-02 02:00:03 -0300"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipe/redstone/letter_button": {
-    "criteria": {
-      "has_the_recipe": "2024-03-01 23:34:44 -0300"
     },
     "done": true
   },
@@ -2239,12 +2533,6 @@
   "infinitybuttons:recipe/redstone/brown_concrete_powder_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-03-03 18:28:32 -0300"
     },
     "done": true
   },

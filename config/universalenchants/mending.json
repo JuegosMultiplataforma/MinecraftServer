@@ -1,9 +1,0 @@
-{
-  "id": "minecraft:mending",
-  "items": [
-    "$minecraft:breakable"
-  ],
-  "incompatible": [
-    "nyfsquiver:quinfinity_enchant"
-  ]
-}

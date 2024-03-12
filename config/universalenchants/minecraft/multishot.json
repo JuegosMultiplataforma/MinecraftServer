@@ -7,7 +7,7 @@
   ],
   "incompatible": [
     "majruszsenchantments:incompatibility_curse",
-    "supplementaries:stasis",
-    "illagerrevolutionmod:serrated_edge"
+    "illagerrevolutionmod:serrated_edge",
+    "supplementaries:stasis"
   ]
 }

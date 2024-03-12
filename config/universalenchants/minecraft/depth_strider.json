@@ -6,8 +6,8 @@
     "$minecraft:universal_enchants_horse_armor"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "minecraft:frost_walker",
+    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge"
   ]
 }

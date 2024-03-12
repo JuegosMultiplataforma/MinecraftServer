@@ -7,9 +7,9 @@
     "quark:echorang"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "majruszsenchantments:fatigue_curse",
     "minecraft:piercing",
+    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge"
   ]
 }

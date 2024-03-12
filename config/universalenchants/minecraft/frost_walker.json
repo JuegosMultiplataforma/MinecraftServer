@@ -7,8 +7,8 @@
   ],
   "incompatible": [
     "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge",
     "minecraft:depth_strider",
-    "maenchants:blazing_walker",
-    "illagerrevolutionmod:serrated_edge"
+    "maenchants:blazing_walker"
   ]
 }

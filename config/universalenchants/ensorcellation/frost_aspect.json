@@ -5,7 +5,7 @@
   ],
   "incompatible": [
     "majruszsenchantments:incompatibility_curse",
-    "minecraft:fire_aspect",
-    "illagerrevolutionmod:serrated_edge"
+    "illagerrevolutionmod:serrated_edge",
+    "minecraft:fire_aspect"
   ]
 }

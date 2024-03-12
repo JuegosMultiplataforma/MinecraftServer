@@ -7,8 +7,8 @@
     "quark:echorang"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "minecraft:silk_touch",
+    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge"
   ]
 }

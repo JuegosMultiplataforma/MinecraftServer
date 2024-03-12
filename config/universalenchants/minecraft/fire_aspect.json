@@ -6,7 +6,7 @@
     "$minecraft:trident"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
-    "ensorcellation:frost_aspect"
+    "ensorcellation:frost_aspect",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

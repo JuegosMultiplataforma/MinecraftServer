@@ -1,4 +1,6 @@
 {
+  "reliquary:mortar": null,
+  "reliquary:altar": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
   "minecraft:command_block": null,
@@ -15,8 +17,5 @@
   "minecraft:fluid": null,
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
-  "jade:object_name": null,
-  "reliquary:mortar": null,
-  "reliquary:altar": null,
-  "gravestone:grave": null
+  "jade:object_name": null
 }

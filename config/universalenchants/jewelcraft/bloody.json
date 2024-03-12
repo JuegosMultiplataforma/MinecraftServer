@@ -4,10 +4,10 @@
     "$minecraft:wearable"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "jewelcraft:zombie",
-    "jewelcraft:critical",
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge",
     "jewelcraft:infused",
-    "illagerrevolutionmod:serrated_edge"
+    "jewelcraft:critical"
   ]
 }

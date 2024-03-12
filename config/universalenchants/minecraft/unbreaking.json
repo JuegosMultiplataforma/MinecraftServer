@@ -4,7 +4,7 @@
     "$minecraft:breakable"
   ],
   "incompatible": [
-    "majruszsenchantments:breaking_curse",
-    "majruszsenchantments:incompatibility_curse"
+    "majruszsenchantments:incompatibility_curse",
+    "majruszsenchantments:breaking_curse"
   ]
 }

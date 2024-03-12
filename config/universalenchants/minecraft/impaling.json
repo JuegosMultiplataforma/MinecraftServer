@@ -8,9 +8,9 @@
     "$minecraft:universal_enchants_axe"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "minecraft:bane_of_arthropods",
-    "minecraft:smite",
-    "illagerrevolutionmod:serrated_edge"
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge",
+    "minecraft:smite"
   ]
 }

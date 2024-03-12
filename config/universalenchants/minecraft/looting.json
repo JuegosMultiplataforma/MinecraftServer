@@ -9,8 +9,8 @@
     "$minecraft:crossbow"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "ensorcellation:excavating",
-    "minecraft:silk_touch"
+    "minecraft:silk_touch",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

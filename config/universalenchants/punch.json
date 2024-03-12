@@ -1,9 +1,0 @@
-{
-  "id": "minecraft:punch",
-  "items": [
-    "$minecraft:bow",
-    "the_bumblezone:crystal_cannon",
-    "$minecraft:crossbow"
-  ],
-  "incompatible": []
-}

@@ -1,15 +1,15 @@
 [
-  "corail_recycler:recycler",
-  "minecraft:andesite",
-  "minecraft:cake",
   "minecraft:paper",
   "minecraft:blaze_powder",
-  "minecraft:sugar",
-  "minecraft:stick",
   "minecraft:ender_eye",
-  "minecraft:fire_charge",
+  "minecraft:diorite",
   "minecraft:red_nether_bricks",
-  "minecraft:granite",
+  "minecraft:magma_block",
+  "minecraft:cake",
   "minecraft:magma_cream",
-  "minecraft:diorite"
+  "minecraft:fire_charge",
+  "corail_recycler:recycler",
+  "minecraft:granite",
+  "minecraft:sugar",
+  "minecraft:andesite"
 ]

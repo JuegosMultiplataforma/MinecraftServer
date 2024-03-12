@@ -5,11 +5,11 @@
   ],
   "incompatible": [
     "jewelcraft:rainbow",
-    "majruszsenchantments:incompatibility_curse",
     "jewelcraft:totem",
+    "jewelcraft:heliodor",
     "jewelcraft:alexandrite",
     "jewelcraft:kyanite",
-    "jewelcraft:heliodor",
+    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge"
   ]
 }
