@@ -1649,6 +1649,12 @@
     },
     "done": true
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-03-13 00:09:06 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/black_emergency_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 11:21:32 -0300"
