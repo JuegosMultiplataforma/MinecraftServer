@@ -15,8 +15,8 @@
     "supplementaries:slingshot"
   ],
   "incompatible": [
+    "minecraft:riptide",
     "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge",
-    "minecraft:riptide"
+    "illagerrevolutionmod:serrated_edge"
   ]
 }

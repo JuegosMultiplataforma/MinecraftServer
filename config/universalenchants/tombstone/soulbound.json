@@ -4,8 +4,8 @@
     "$minecraft:type_tombstone_all"
   ],
   "incompatible": [
+    "ensorcellation:soulbound",
     "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge",
-    "ensorcellation:soulbound"
+    "illagerrevolutionmod:serrated_edge"
   ]
 }

@@ -4,8 +4,8 @@
     "$minecraft:wearable"
   ],
   "incompatible": [
-    "jewelcraft:magnetic",
     "jewelcraft:deflect",
+    "jewelcraft:magnetic",
     "jewelcraft:aquamarine",
     "jewelcraft:satisfication",
     "majruszsenchantments:incompatibility_curse",

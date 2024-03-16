@@ -9,10 +9,10 @@
     "$minecraft:universal_enchants_shield"
   ],
   "incompatible": [
-    "ensorcellation:fire_rebuke",
-    "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge",
     "ensorcellation:displacement",
-    "ensorcellation:frost_rebuke"
+    "ensorcellation:fire_rebuke",
+    "ensorcellation:frost_rebuke",
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge"
   ]
 }

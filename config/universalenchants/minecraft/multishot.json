@@ -6,8 +6,8 @@
     "$minecraft:bow"
   ],
   "incompatible": [
+    "supplementaries:stasis",
     "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge",
-    "supplementaries:stasis"
+    "illagerrevolutionmod:serrated_edge"
   ]
 }

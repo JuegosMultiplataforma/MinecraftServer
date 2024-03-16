@@ -6,8 +6,8 @@
     "$minecraft:universal_enchants_horse_armor"
   ],
   "incompatible": [
+    "ensorcellation:soulbound",
     "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge",
-    "ensorcellation:soulbound"
+    "illagerrevolutionmod:serrated_edge"
   ]
 }

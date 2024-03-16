@@ -6,9 +6,9 @@
     "$minecraft:universal_enchants_horse_armor"
   ],
   "incompatible": [
+    "maenchants:blazing_walker",
     "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge",
-    "minecraft:depth_strider",
-    "maenchants:blazing_walker"
+    "minecraft:depth_strider"
   ]
 }

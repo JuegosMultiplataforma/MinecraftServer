@@ -4,8 +4,8 @@
     "$minecraft:wearable"
   ],
   "incompatible": [
-    "jewelcraft:bloody",
     "jewelcraft:zombie",
+    "jewelcraft:bloody",
     "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge",
     "jewelcraft:infused"

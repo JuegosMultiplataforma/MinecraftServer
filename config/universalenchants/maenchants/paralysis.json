@@ -4,8 +4,8 @@
     "$minecraft:bow"
   ],
   "incompatible": [
+    "maenchants:floating",
     "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge",
-    "maenchants:floating"
+    "illagerrevolutionmod:serrated_edge"
   ]
 }

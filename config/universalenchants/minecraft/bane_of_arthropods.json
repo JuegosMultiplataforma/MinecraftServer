@@ -21,15 +21,15 @@
     "$minecraft:trident"
   ],
   "incompatible": [
-    "ensorcellation:damage_villager",
-    "ensorcellation:damage_illager",
-    "ensorcellation:magic_edge",
     "majruszsenchantments:misanthropy",
-    "ensorcellation:instigating",
+    "ensorcellation:damage_illager",
+    "minecraft:smite",
+    "ensorcellation:magic_edge",
     "ensorcellation:damage_ender",
+    "ensorcellation:instigating",
+    "ensorcellation:damage_villager",
     "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge",
-    "minecraft:smite",
     "minecraft:impaling"
   ]
 }

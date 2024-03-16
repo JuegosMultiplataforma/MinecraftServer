@@ -5,9 +5,9 @@
   ],
   "incompatible": [
     "jewelcraft:bloody",
+    "jewelcraft:critical",
     "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge",
-    "jewelcraft:infused",
-    "jewelcraft:critical"
+    "jewelcraft:infused"
   ]
 }

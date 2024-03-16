@@ -4,11 +4,11 @@
     "$minecraft:wearable"
   ],
   "incompatible": [
-    "jewelcraft:sodalite",
-    "jewelcraft:rainbow",
-    "jewelcraft:totem",
-    "jewelcraft:heliodor",
     "jewelcraft:kyanite",
+    "jewelcraft:sodalite",
+    "jewelcraft:heliodor",
+    "jewelcraft:totem",
+    "jewelcraft:rainbow",
     "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge"
   ]

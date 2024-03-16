@@ -21,12 +21,12 @@
     "$minecraft:trident"
   ],
   "incompatible": [
-    "ensorcellation:damage_villager",
+    "majruszsenchantments:misanthropy",
     "ensorcellation:damage_illager",
     "ensorcellation:magic_edge",
-    "majruszsenchantments:misanthropy",
-    "ensorcellation:instigating",
     "ensorcellation:damage_ender",
+    "ensorcellation:instigating",
+    "ensorcellation:damage_villager",
     "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge"
   ]

@@ -21,14 +21,14 @@
     "$minecraft:trident"
   ],
   "incompatible": [
-    "ensorcellation:damage_villager",
-    "minecraft:bane_of_arthropods",
+    "majruszsenchantments:misanthropy",
     "ensorcellation:damage_illager",
     "ensorcellation:magic_edge",
-    "majruszsenchantments:misanthropy",
-    "ensorcellation:instigating",
     "ensorcellation:damage_ender",
+    "ensorcellation:instigating",
+    "ensorcellation:damage_villager",
     "majruszsenchantments:incompatibility_curse",
+    "minecraft:bane_of_arthropods",
     "minecraft:impaling"
   ]
 }

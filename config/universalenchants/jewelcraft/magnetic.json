@@ -5,10 +5,10 @@
   ],
   "incompatible": [
     "jewelcraft:deflect",
+    "jewelcraft:healing_aura",
     "jewelcraft:aquamarine",
     "jewelcraft:satisfication",
     "majruszsenchantments:incompatibility_curse",
-    "jewelcraft:healing_aura",
     "illagerrevolutionmod:serrated_edge"
   ]
 }

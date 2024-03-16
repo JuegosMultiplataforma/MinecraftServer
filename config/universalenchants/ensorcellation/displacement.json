@@ -8,9 +8,9 @@
   ],
   "incompatible": [
     "ensorcellation:fire_rebuke",
-    "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge",
     "ensorcellation:frost_rebuke",
-    "minecraft:thorns"
+    "minecraft:thorns",
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge"
   ]
 }

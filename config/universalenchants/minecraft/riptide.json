@@ -7,8 +7,8 @@
   ],
   "incompatible": [
     "minecraft:loyalty",
-    "majruszsenchantments:incompatibility_curse",
     "minecraft:channeling",
+    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge"
   ]
 }

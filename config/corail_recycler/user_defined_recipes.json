@@ -1,10 +1,63 @@
 [
   {
+    "inputItem": "immersiveores:vibranium_hoe:1",
+    "outputItems": [
+      "immersiveores:vibranium_ingot:2",
+      "immersiveores:vibranium_stick:2"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:vibranium_sword:1",
+    "outputItems": [
+      "immersiveores:vibranium_ingot:2",
+      "immersiveores:vibranium_stick:1"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:vibranium_pickaxe:1",
+    "outputItems": [
+      "immersiveores:vibranium_ingot:3",
+      "immersiveores:vibranium_stick:2"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:vibranium_axe:1",
+    "outputItems": [
+      "immersiveores:vibranium_ingot:3",
+      "immersiveores:vibranium_stick:2"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:vibranium_shovel:1",
+    "outputItems": [
+      "immersiveores:vibranium_ingot:1",
+      "immersiveores:vibranium_stick:2"
+    ]
+  },
+  {
     "inputItem": "immersiveores:vibranium_bow:1",
     "outputItems": [
       "immersiveores:vibranium_stick:3",
       "minecraft:string:3",
       "immersiveores:vibranium_ingot:1"
+    ]
+  },
+  {
+    "inputItem": "aether:diamond_gloves:1",
+    "outputItems": [
+      "minecraft:diamond:2"
+    ]
+  },
+  {
+    "inputItem": "aether:golden_gloves:1",
+    "outputItems": [
+      "minecraft:gold_ingot:2"
+    ]
+  },
+  {
+    "inputItem": "aether:leather_gloves:1",
+    "outputItems": [
+      "minecraft:leather:2"
     ]
   }
 ]

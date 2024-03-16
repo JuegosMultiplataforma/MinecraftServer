@@ -7,10 +7,10 @@
     "modulargolems:barbaric_vanguard_chestplate"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge",
     "ensorcellation:displacement",
     "ensorcellation:frost_rebuke",
-    "minecraft:thorns"
+    "minecraft:thorns",
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:serrated_edge"
   ]
 }
