@@ -329,8 +329,6 @@
 		"Max Level" = 4
 
 	[Overrides."Fire Aspect"]
-		#If TRUE, the Fire Aspect Enchantment is replaced with a more configurable version which works on more items, such as Axes.
-		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 2
@@ -347,15 +345,11 @@
 		"Freeze Lava" = true
 
 	[Overrides.Knockback]
-		#If TRUE, the Knockback Enchantment is replaced with a more configurable version which works on more items, such as Axes.
-		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 2
 
 	[Overrides.Looting]
-		#If TRUE, the Looting Enchantment is replaced with a more configurable version which works on more items, such as Axes.
-		Enable = true
 		#This option adjusts the maximum allowable level for the Enchantment.
 		#Range: 1 ~ 10
 		"Max Level" = 3

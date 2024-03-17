@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:wearable"
+  ],
+  "incompatible": [
+    "illagerrevolutionmod:serrated_edge",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}
