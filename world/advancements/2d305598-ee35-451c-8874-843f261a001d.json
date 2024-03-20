@@ -237,12 +237,6 @@
     },
     "done": true
   },
-  "antique_pickaxe:justeunesimplepioche": {
-    "criteria": {
-      "justeunesimplepioche": "2024-03-01 23:47:29 -0500"
-    },
-    "done": true
-  },
   "infinitybuttons:recipe/redstone/acacia_bookshelf_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 21:34:45 -0500"
@@ -909,6 +903,7 @@
     "criteria": {
       "minecraft:pillager": "2024-03-05 21:58:59 -0500",
       "minecraft:skeleton": "2024-03-03 22:32:37 -0500",
+      "minecraft:vindicator": "2024-03-18 22:35:26 -0500",
       "minecraft:spider": "2024-03-03 22:33:50 -0500",
       "minecraft:creeper": "2024-03-08 22:27:19 -0500",
       "minecraft:wither_skeleton": "2024-03-07 22:54:57 -0500",
@@ -1179,6 +1174,12 @@
   "infinitybuttons:recipe/redstone/dark_prismarine_button_stonecutter": {
     "criteria": {
       "has_the_recipe": "2024-03-01 21:34:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-03-18 21:59:55 -0500"
     },
     "done": true
   },
@@ -1578,6 +1579,12 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_the_recipe": "2024-03-17 21:33:33 -0500"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/gold_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 21:34:45 -0500"
@@ -1599,6 +1606,12 @@
   "infinitybuttons:recipe/redstone/light_gray_safe_emergency_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 21:34:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-03-18 21:25:31 -0500"
     },
     "done": true
   },
@@ -1692,12 +1705,6 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-03-01 23:26:20 -0500"
-    },
-    "done": true
-  },
-  "antique_pickaxe:troisfoistroisneuf": {
-    "criteria": {
-      "troisfoistroisneuf": "2024-03-05 21:44:20 -0500"
     },
     "done": true
   },
