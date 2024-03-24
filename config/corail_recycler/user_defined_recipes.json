@@ -1,43 +1,40 @@
 [
   {
+    "inputItem": "immersiveores:vibranium_bow:1",
+    "outputItems": [
+      "immersiveores:vibranium_stick:3",
+      "minecraft:string:3",
+      "immersiveores:vibranium_ingot:1"
+    ]
+  },
+  {
+    "inputItem": "aether:diamond_gloves:1",
+    "outputItems": [
+      "minecraft:diamond:2"
+    ]
+  },
+  {
     "inputItem": "aether:golden_gloves:1",
     "outputItems": [
       "minecraft:gold_ingot:2"
     ]
   },
   {
-    "inputItem": "immersiveores:vibranium_hoe:1",
+    "inputItem": "minecraft:cut_copper:4",
     "outputItems": [
-      "immersiveores:vibranium_ingot:2",
-      "immersiveores:vibranium_stick:2"
+      "minecraft:copper_block:4"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:enderium_boots:1",
+    "outputItems": [
+      "immersiveores:enderium_ingot:4"
     ]
   },
   {
     "inputItem": "aether:leather_gloves:1",
     "outputItems": [
       "minecraft:leather:2"
-    ]
-  },
-  {
-    "inputItem": "immersiveores:vibranium_sword:1",
-    "outputItems": [
-      "immersiveores:vibranium_ingot:2",
-      "immersiveores:vibranium_stick:1"
-    ]
-  },
-  {
-    "inputItem": "immersiveores:vibranium_axe:1",
-    "outputItems": [
-      "immersiveores:vibranium_ingot:3",
-      "immersiveores:vibranium_stick:2"
-    ]
-  },
-  {
-    "inputItem": "immersiveores:vibranium_bow:1",
-    "outputItems": [
-      "immersiveores:vibranium_stick:3",
-      "minecraft:string:3",
-      "immersiveores:vibranium_ingot:1"
     ]
   },
   {
@@ -48,21 +45,43 @@
     ]
   },
   {
-    "inputItem": "immersiveores:vulpus_stick:1",
+    "inputItem": "immersiveores:vibranium_hoe:1",
     "outputItems": [
-      "immersiveores:vulpus_ingot:2"
+      "immersiveores:vibranium_ingot:2",
+      "immersiveores:vibranium_stick:2"
     ]
   },
   {
-    "inputItem": "minecraft:cut_copper:4",
+    "inputItem": "minecraft:iron_horse_armor:1",
     "outputItems": [
-      "minecraft:copper_block:4"
+      "minecraft:iron_helmet:1",
+      "minecraft:iron_ingot:2",
+      "minecraft:white_wool:1",
+      "minecraft:iron_leggings:1",
+      "minecraft:iron_leggings:1"
     ]
   },
   {
-    "inputItem": "aether:diamond_gloves:1",
+    "inputItem": "minecraft:golden_horse_armor:1",
     "outputItems": [
-      "minecraft:diamond:2"
+      "minecraft:golden_helmet:1",
+      "minecraft:gold_ingot:2",
+      "minecraft:white_wool:1",
+      "minecraft:golden_leggings:1",
+      "minecraft:golden_leggings:1"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:vibranium_excavator:1",
+    "outputItems": [
+      "immersiveores:vibranium_block:1",
+      "immersiveores:vibranium_stick:2"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:vibranium_block:1",
+    "outputItems": [
+      "immersiveores:vibranium_ingot:9"
     ]
   },
   {
@@ -70,6 +89,36 @@
     "outputItems": [
       "immersiveores:vibranium_ingot:3",
       "immersiveores:vibranium_stick:2"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:vibranium_axe:1",
+    "outputItems": [
+      "immersiveores:vibranium_ingot:3",
+      "immersiveores:vibranium_stick:2"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:vulpus_stick:1",
+    "outputItems": [
+      "immersiveores:vulpus_ingot:2"
+    ]
+  },
+  {
+    "inputItem": "minecraft:diamond_horse_armor:1",
+    "outputItems": [
+      "minecraft:diamond_helmet:1",
+      "minecraft:diamond:2",
+      "minecraft:white_wool:1",
+      "minecraft:diamond_leggings:1",
+      "minecraft:diamond_leggings:1"
+    ]
+  },
+  {
+    "inputItem": "immersiveores:vibranium_sword:1",
+    "outputItems": [
+      "immersiveores:vibranium_ingot:2",
+      "immersiveores:vibranium_stick:1"
     ]
   }
 ]

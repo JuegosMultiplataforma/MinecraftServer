@@ -342,6 +342,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-03-09 22:50:16 -0500",
+      "baked_potato": "2024-03-20 22:01:16 -0500",
       "apple": "2024-03-04 22:11:55 -0500",
       "potato": "2024-03-10 22:08:53 -0500",
       "poisonous_potato": "2024-03-03 17:54:04 -0500",
@@ -906,6 +907,7 @@
       "minecraft:vindicator": "2024-03-18 22:35:26 -0500",
       "minecraft:spider": "2024-03-03 22:33:50 -0500",
       "minecraft:creeper": "2024-03-08 22:27:19 -0500",
+      "quark:forgotten": "2024-03-22 22:22:27 -0500",
       "minecraft:wither_skeleton": "2024-03-07 22:54:57 -0500",
       "minecraft:cave_spider": "2024-03-07 22:26:52 -0500",
       "minecraft:piglin": "2024-03-10 22:26:40 -0500",
@@ -1087,6 +1089,12 @@
     },
     "done": true
   },
+  "morevillagers:kill_villager": {
+    "criteria": {
+      "killedvillager": "2024-03-20 22:37:28 -0500"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/orange_concrete_powder_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 21:34:45 -0500"
@@ -1186,6 +1194,12 @@
   "infinitybuttons:recipe/redstone/cyan_concrete_powder_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 21:34:45 -0500"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-03-20 22:37:28 -0500"
     },
     "done": true
   },
@@ -1297,6 +1311,12 @@
     },
     "done": true
   },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2024-03-20 22:37:07 -0500"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/letter_lever": {
     "criteria": {
       "has_the_recipe": "2024-03-01 21:34:45 -0500"
@@ -1356,6 +1376,12 @@
       "deflected_projectile": "2024-03-03 22:39:09 -0500"
     },
     "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "blue": "2024-03-22 23:32:32 -0500"
+    },
+    "done": false
   },
   "corail_recycler:recipes/diamond_shard": {
     "criteria": {
@@ -1576,6 +1602,12 @@
   "deeperdarker:main/obtain_membrane": {
     "criteria": {
       "membrane": "2024-03-07 22:23:39 -0500"
+    },
+    "done": true
+  },
+  "inventorypets:pacman": {
+    "criteria": {
+      "crafting_table": "2024-03-20 21:38:29 -0500"
     },
     "done": true
   },
