@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest",
+    "apotheosis:chestplate_tome",
+    "modulargolems:roman_guard_chestplate",
+    "modulargolems:wind_spirit_chestplate",
+    "modulargolems:barbaric_vanguard_chestplate"
+  ],
+  "incompatible": [
+    "illagerrevolutionmod:serrated_edge",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}

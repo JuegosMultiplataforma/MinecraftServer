@@ -1,0 +1,22 @@
+
+[common]
+	#Common Config
+	#Health bonus per tier.
+	#Range: 1.0 ~ 258.0
+	healthPerTier = 258.0
+	#Attack damage bonus per tier.
+	#Range: 1.0 ~ 20.0
+	attackDamagePerTier = 20.0
+	#Armor bonus per tier.
+	#Range: 0.0 ~ 20.0
+	armorPerTier = 20.0
+	#Armor toughness bonus per tier.
+	#Range: 0.0 ~ 20.0
+	armorToughnessPerTier = 20.0
+	#Spawning chance.
+	#Range: > 10
+	spawningChance = 10
+	#Spawning chance in.
+	#Range: > 10
+	spawningChanceIn = 250
+

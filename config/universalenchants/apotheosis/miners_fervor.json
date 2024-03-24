@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "apotheosis:pickaxe_tome"
+  ],
+  "incompatible": [
+    "illagerrevolutionmod:serrated_edge",
+    "majruszsenchantments:incompatibility_curse",
+    "majruszsenchantments:fatigue_curse",
+    "minecraft:efficiency"
+  ]
+}

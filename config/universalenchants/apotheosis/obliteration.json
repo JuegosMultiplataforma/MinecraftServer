@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:anvil",
+    "apotheosis:other_tome"
+  ],
+  "incompatible": [
+    "illagerrevolutionmod:serrated_edge",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}

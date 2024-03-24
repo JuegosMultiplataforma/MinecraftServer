@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet",
+    "apotheosis:boots_tome",
+    "alexsmobs:pigshoes"
+  ],
+  "incompatible": [
+    "illagerrevolutionmod:serrated_edge",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}
