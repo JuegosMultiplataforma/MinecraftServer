@@ -16,18 +16,18 @@ invertMagnetRing = false
 #Applying changes at runtime requires /reload afterwards.
 orechidPriorityMods = []
 
-[blockBreakingParticles]
-	#Set this to false to remove the block breaking particles from the flowers and other items in the mod.
-	enabled = true
-	#Set this to false to remove the block breaking particles from the Terra Shatterer, as there can be a good amount in higher levels.
-	toolEnabled = true
-
 [manaSpreaders]
 	#Set this to true to disable the mana spreader shooting sound
 	silent = false
 	#How many ticks into the future will mana spreaders attempt to predict where mana bursts go? Setting this lower will improve spreader performance, but will cause them to not fire at targets that are too far away.
 	#Range: > 1
 	traceTime = 400
+
+[blockBreakingParticles]
+	#Set this to false to remove the block breaking particles from the flowers and other items in the mod.
+	enabled = true
+	#Set this to false to remove the block breaking particles from the Terra Shatterer, as there can be a good amount in higher levels.
+	toolEnabled = true
 
 [harvestLevels]
 	#The harvest level of the Mana Lens: Weight. 3 is diamond level. Defaults to 2 (iron level)
