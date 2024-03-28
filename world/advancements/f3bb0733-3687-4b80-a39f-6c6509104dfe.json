@@ -2165,6 +2165,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-03-26 16:10:35 -0500"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/magenta_concrete_powder_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 09:21:32 -0500"
@@ -2527,6 +2533,12 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2024-03-26 16:25:42 -0500"
+    },
+    "done": true
+  },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2024-03-11 21:00:04 -0500"
@@ -2831,6 +2843,12 @@
   "infinitybuttons:recipe/redstone/diorite_button_stonecutter": {
     "criteria": {
       "has_the_recipe": "2024-03-01 09:21:32 -0500"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2024-03-26 21:56:16 -0500"
     },
     "done": true
   },

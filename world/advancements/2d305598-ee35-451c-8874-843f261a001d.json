@@ -852,6 +852,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2024-03-26 22:19:34 -0500"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/diamond_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 21:34:45 -0500"
