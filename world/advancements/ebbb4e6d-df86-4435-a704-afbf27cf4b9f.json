@@ -146,6 +146,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-03-29 23:48:44 -0300"
+    },
+    "done": true
+  },
   "deeperdarker:main/root": {
     "criteria": {
       "phantom": "2024-03-09 21:00:16 -0300"
@@ -529,6 +535,7 @@
       "minecraft:zombified_piglin": "2024-03-03 18:21:20 -0300",
       "minecraft:witch": "2024-03-04 00:32:55 -0300",
       "minecraft:wither_skeleton": "2024-03-04 22:56:15 -0300",
+      "minecraft:husk": "2024-03-29 23:48:15 -0300",
       "minecraft:cave_spider": "2024-03-02 02:02:30 -0300",
       "quark:wraith": "2024-03-06 23:50:39 -0300",
       "minecraft:piglin": "2024-03-03 19:23:00 -0300",
@@ -831,6 +838,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2024-03-29 23:49:22 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/light_gray_concrete_powder_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -912,6 +925,12 @@
   "infinitybuttons:recipe/redstone/small_crimsite_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-17 23:18:35 -0300"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed": "2024-03-30 00:18:44 -0300"
     },
     "done": true
   },
@@ -1341,6 +1360,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-03-29 23:48:16 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/diorite_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
@@ -1386,6 +1411,12 @@
   "infinitybuttons:recipe/redstone/tuff_large_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2024-03-29 23:48:44 -0300"
     },
     "done": true
   },
