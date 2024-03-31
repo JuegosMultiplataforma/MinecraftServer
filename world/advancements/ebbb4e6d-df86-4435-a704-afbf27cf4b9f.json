@@ -80,6 +80,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-03-30 13:28:09 -0300"
+    },
+    "done": true
+  },
   "infinitybuttons:recipe/redstone/polished_dripstone_brick_secret_button": {
     "criteria": {
       "has_the_recipe": "2024-03-01 23:34:44 -0300"

@@ -284,6 +284,12 @@
     },
     "done": true
   },
+  "mutantmore:nether/get_mutant_disc": {
+    "criteria": {
+      "music_disc_hunted": "2024-03-30 13:10:00 -0300"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2024-03-07 01:00:47 -0300"
@@ -2264,6 +2270,13 @@
       "has_the_recipe": "2024-03-16 22:59:17 -0300"
     },
     "done": true
+  },
+  "mutantmore:nether/get_all_mutant_discs": {
+    "criteria": {
+      "music_disc_hunted": "2024-03-30 13:10:00 -0300",
+      "music_disc_found": "2024-03-30 13:10:03 -0300"
+    },
+    "done": false
   },
   "infinitybuttons:recipe/redstone/copper_button": {
     "criteria": {
