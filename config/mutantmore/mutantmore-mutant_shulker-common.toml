@@ -1,19 +1,4 @@
 
-#Spawn Options
-[spawn_config]
-	#
-	# If the Mutant Shulker naturally despawnsNot recommended unless Spawns Naturally is set to true
-	# usually set to false
-	Despawns = false
-	#
-	# If a Shulker has a chance to be replaced by a Mutant Shulker when spawning
-	# usually set to false
-	"Spawns Naturally" = false
-	#
-	# How often a Shulker is replaced by a Mutant Shulker when spawning
-	# usually set to 1 in 75
-	"Natural Spawn Chance" = 75
-
 #Configure Mutant More's Mutant Shulker on the client and server sides (these changes will affect everyone in the world)! The game needs to be restarted for changes to take effect!Stat Options
 [stat_config]
 	#
@@ -309,4 +294,19 @@
 	# If blocks the Mutant Shulker breaks after getting hurt drop themselves as items, allowing them to be recovered, impacts performance
 	# usually set to false
 	"Hurt Griefing Drops Blocks" = true
+
+#Spawn Options
+[spawn_config]
+	#
+	# If the Mutant Shulker naturally despawnsNot recommended unless Spawns Naturally is set to true
+	# usually set to false
+	Despawns = false
+	#
+	# If a Shulker has a chance to be replaced by a Mutant Shulker when spawning
+	# usually set to false
+	"Spawns Naturally" = false
+	#
+	# How often a Shulker is replaced by a Mutant Shulker when spawning
+	# usually set to 1 in 75
+	"Natural Spawn Chance" = 75
 

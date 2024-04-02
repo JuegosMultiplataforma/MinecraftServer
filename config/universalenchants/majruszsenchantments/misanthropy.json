@@ -4,10 +4,10 @@
     "$minecraft:melee_minecraft"
   ],
   "incompatible": [
-    "minecraft:sharpness",
     "minecraft:smite",
-    "majruszsenchantments:incompatibility_curse",
+    "minecraft:sharpness",
+    "illagerrevolutionmod:serrated_edge",
     "minecraft:bane_of_arthropods",
-    "illagerrevolutionmod:serrated_edge"
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

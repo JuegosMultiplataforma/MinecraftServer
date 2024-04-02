@@ -14,7 +14,7 @@
   ],
   "incompatible": [
     "ensorcellation:magic_edge",
-    "illagerrevolutionmod:soul_slash",
-    "majruszsenchantments:incompatibility_curse"
+    "majruszsenchantments:incompatibility_curse",
+    "illagerrevolutionmod:soul_slash"
   ]
 }

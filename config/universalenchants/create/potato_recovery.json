@@ -5,7 +5,7 @@
     "create:potato_cannon"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge"
+    "illagerrevolutionmod:serrated_edge",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

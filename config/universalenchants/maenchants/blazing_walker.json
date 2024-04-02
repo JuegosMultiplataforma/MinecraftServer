@@ -5,8 +5,8 @@
     "alexsmobs:pigshoes"
   ],
   "incompatible": [
+    "illagerrevolutionmod:serrated_edge",
     "minecraft:frost_walker",
-    "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge"
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

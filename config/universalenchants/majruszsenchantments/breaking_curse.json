@@ -4,8 +4,8 @@
     "$minecraft:breakable"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge",
-    "minecraft:unbreaking"
+    "minecraft:unbreaking",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

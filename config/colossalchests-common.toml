@@ -7,15 +7,15 @@
 		#If the interface input overlay should always be rendered on chests.
 		alwaysShowInterfaceOverlay = true
 		#Multiplier for the number of inventory slots for this chest material.
-		chestInventoryMaterialFactorDiamond = 5.0
+		chestInventoryMaterialFactorDiamond = 4.0
 		#Multiplier for the number of inventory slots for this chest material.
-		chestInventoryMaterialFactorObsidian = 6.0
+		chestInventoryMaterialFactorObsidian = 4.0
 		#If items should be ejected from the chests if one of the structure blocks are removed.
 		ejectItemsOnDestroy = false
 		#Multiplier for the number of inventory slots for this chest material.
 		chestInventoryMaterialFactorIron = 2.0
 		#Multiplier for the number of inventory slots for this chest material.
-		chestInventoryMaterialFactorWood = 1000000.0
+		chestInventoryMaterialFactorWood = 1.0
 		#Multiplier for the number of inventory slots for this chest material.
 		chestInventoryMaterialFactorCopper = 1.666
 		#Multiplier for the number of inventory slots for this chest material.

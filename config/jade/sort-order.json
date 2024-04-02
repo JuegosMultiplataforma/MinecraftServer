@@ -17,8 +17,5 @@
   "minecraft:fluid": null,
   "minecraft:energy_storage": null,
   "minecraft:progress": null,
-  "jade:object_name": null,
-  "apotheosis:spawner": null,
-  "apotheosis:ench": null,
-  "apotheosis:adventure": null
+  "jade:object_name": null
 }

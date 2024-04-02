@@ -4,8 +4,8 @@
     "$minecraft:breakable"
   ],
   "incompatible": [
-    "minecraft:efficiency",
+    "illagerrevolutionmod:serrated_edge",
     "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge"
+    "minecraft:efficiency"
   ]
 }

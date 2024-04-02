@@ -4,14 +4,14 @@
     "$minecraft:sword_or_axe"
   ],
   "incompatible": [
-    "minecraft:sharpness",
     "minecraft:smite",
     "ensorcellation:magic_edge",
+    "minecraft:sharpness",
+    "illagerrevolutionmod:serrated_edge",
+    "minecraft:bane_of_arthropods",
     "ensorcellation:damage_ender",
-    "ensorcellation:instigating",
     "ensorcellation:damage_villager",
     "majruszsenchantments:incompatibility_curse",
-    "minecraft:bane_of_arthropods",
-    "illagerrevolutionmod:serrated_edge"
+    "ensorcellation:instigating"
   ]
 }

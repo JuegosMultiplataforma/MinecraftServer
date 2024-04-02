@@ -4,11 +4,11 @@
     "$minecraft:wearable"
   ],
   "incompatible": [
-    "jewelcraft:healing_aura",
-    "jewelcraft:magnetic",
     "jewelcraft:aquamarine",
+    "jewelcraft:magnetic",
+    "jewelcraft:healing_aura",
+    "illagerrevolutionmod:serrated_edge",
     "jewelcraft:satisfication",
-    "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge"
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

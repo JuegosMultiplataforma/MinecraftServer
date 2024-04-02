@@ -6,8 +6,8 @@
     "cataclysm:coral_bardiche"
   ],
   "incompatible": [
-    "minecraft:riptide",
+    "illagerrevolutionmod:serrated_edge",
     "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge"
+    "minecraft:riptide"
   ]
 }

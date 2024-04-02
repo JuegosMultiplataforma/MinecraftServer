@@ -4,8 +4,8 @@
     "$minecraft:sword_or_axe"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge",
-    "minecraft:fire_aspect"
+    "minecraft:fire_aspect",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

@@ -8,9 +8,9 @@
   ],
   "incompatible": [
     "ensorcellation:displacement",
-    "ensorcellation:frost_rebuke",
     "minecraft:thorns",
-    "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge"
+    "illagerrevolutionmod:serrated_edge",
+    "ensorcellation:frost_rebuke",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

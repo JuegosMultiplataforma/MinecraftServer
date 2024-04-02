@@ -5,8 +5,8 @@
     "alexsmobs:pigshoes"
   ],
   "incompatible": [
+    "illagerrevolutionmod:serrated_edge",
     "minecraft:feather_falling",
-    "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge"
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

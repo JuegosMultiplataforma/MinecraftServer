@@ -17,8 +17,8 @@
     "modulargolems:netherite_golem_axe"
   ],
   "incompatible": [
-    "majruszsenchantments:incompatibility_curse",
     "illagerrevolutionmod:serrated_edge",
-    "tombstone:plague_bringer"
+    "tombstone:plague_bringer",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

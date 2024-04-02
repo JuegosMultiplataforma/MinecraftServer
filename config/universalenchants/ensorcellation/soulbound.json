@@ -4,9 +4,9 @@
     "$minecraft:enchantable"
   ],
   "incompatible": [
-    "minecraft:vanishing_curse",
+    "illagerrevolutionmod:serrated_edge",
     "tombstone:soulbound",
-    "majruszsenchantments:incompatibility_curse",
-    "illagerrevolutionmod:serrated_edge"
+    "minecraft:vanishing_curse",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }

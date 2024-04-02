@@ -5,9 +5,9 @@
   ],
   "incompatible": [
     "jewelcraft:zombie",
-    "jewelcraft:critical",
-    "majruszsenchantments:incompatibility_curse",
+    "jewelcraft:infused",
     "illagerrevolutionmod:serrated_edge",
-    "jewelcraft:infused"
+    "jewelcraft:critical",
+    "majruszsenchantments:incompatibility_curse"
   ]
 }
